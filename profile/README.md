@@ -14,8 +14,8 @@ BantuCerdas emerges as a solution to address educational disparities, particular
 ## UI Application (Figma)
 ![Register/Login](https://github.com/BantuCerdas/.github/assets/72656623/ada1b672-7638-4044-9a7e-b7b62a9e9617)
 ![Homepage](https://github.com/BantuCerdas/.github/assets/72656623/0d166fac-8df5-40e5-850c-a4b37a33c993)
-
-
+![Item Donation](https://github.com/BantuCerdas/.github/assets/72656623/4f8b302f-ea57-4b27-943f-41a0d586ca4f)
+![Money Donation](https://github.com/BantuCerdas/.github/assets/72656623/154d4dbf-b17b-4367-bb0c-e6be7b9534e5)
 
 ## API Documentations
 - [Auth-Service](https://documenter.getpostman.com/view/24273397/2s9YsNcpya)
