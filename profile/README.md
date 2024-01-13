@@ -8,8 +8,8 @@ BantuCerdas emerges as a solution to address educational disparities, particular
 | Name | Contact | Role |
 | :---: | :---: | :---: |
 | Gilang Swandaru | <a href="https://www.linkedin.com/in/gilang-swandaru/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  | Hustler |
-| Sukma Adhi Wijaya | [https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/sukma-adhi-wijaya-aa1659180/) | Hipster |
-| Muhammad Razin Syakib | [https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/muhammad-razin-syakib/) | Hacker |
+| Sukma Adhi Wijaya | <a href="https://www.linkedin.com/in/sukma-adhi-wijaya-aa1659180/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> | Hipster |
+| Muhammad Razin Syakib | <a href="https://www.linkedin.com/in/muhammad-razin-syakib/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> | Hacker |
 
 ## UI Application (Figma)
 ![Register/Login](https://github.com/BantuCerdas/.github/assets/72656623/ada1b672-7638-4044-9a7e-b7b62a9e9617)
