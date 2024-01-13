@@ -7,9 +7,9 @@ BantuCerdas emerges as a solution to address educational disparities, particular
 ## Teams
 | Name | Contact | Role |
 | :---: | :---: | :---: |
-| Gilang Swandaru | [LinkedIn](https://www.linkedin.com/in/gilang-swandaru/) | Hustler |
-| Sukma Adhi Wijaya | [LinkedIn](https://www.linkedin.com/in/sukma-adhi-wijaya-aa1659180/) | Hipster |
-| Muhammad Razin Syakib | [LinkedIn](https://www.linkedin.com/in/muhammad-razin-syakib/) | Hacker |
+| Gilang Swandaru | [https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/gilang-swandaru/) | Hustler |
+| Sukma Adhi Wijaya | [https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/sukma-adhi-wijaya-aa1659180/) | Hipster |
+| Muhammad Razin Syakib | [https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/muhammad-razin-syakib/) | Hacker |
 
 ## UI Application (Figma)
 ![Register/Login](https://github.com/BantuCerdas/.github/assets/72656623/ada1b672-7638-4044-9a7e-b7b62a9e9617)
