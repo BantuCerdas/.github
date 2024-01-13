@@ -7,9 +7,9 @@ BantuCerdas emerges as a solution to address educational disparities, particular
 ## Teams
 | Name | Contact | Role |
 | :---: | :---: | :---: |
-| Gilang Swandaru | <a href="https://www.linkedin.com/in/gilang-swandaru/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  | Hustler |
-| Sukma Adhi Wijaya | <a href="https://www.linkedin.com/in/sukma-adhi-wijaya-aa1659180/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> | Hipster |
-| Muhammad Razin Syakib | <a href="https://www.linkedin.com/in/muhammad-razin-syakib/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> | Hacker |
+| Gilang Swandaru | <a href="https://www.linkedin.com/in/gilang-swandaru/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/glng-swndru"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>   | Hustler |
+| Sukma Adhi Wijaya | <a href="https://www.linkedin.com/in/sukma-adhi-wijaya-aa1659180/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/nubrandsta"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> | Hipster |
+| Muhammad Razin Syakib | <a href="https://www.linkedin.com/in/muhammad-razin-syakib/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/RazinSyakib43"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> | Hacker |
 
 ## UI Application (Figma)
 ![Register/Login](https://github.com/BantuCerdas/.github/assets/72656623/ada1b672-7638-4044-9a7e-b7b62a9e9617)
