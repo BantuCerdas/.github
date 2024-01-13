@@ -12,6 +12,10 @@ BantuCerdas emerges as a solution to address educational disparities, particular
 | Muhammad Razin Syakib | [LinkedIn](https://www.linkedin.com/in/muhammad-razin-syakib/) | Hacker |
 
 ## UI Application
+![Register/Login](https://github.com/BantuCerdas/.github/assets/72656623/ada1b672-7638-4044-9a7e-b7b62a9e9617)
+![Homepage](https://github.com/BantuCerdas/.github/assets/72656623/0d166fac-8df5-40e5-850c-a4b37a33c993)
+
+
 
 ## API Documentations
 - [Auth-Service](https://documenter.getpostman.com/view/24273397/2s9YsNcpya)
