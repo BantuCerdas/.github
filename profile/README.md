@@ -11,7 +11,7 @@ BantuCerdas emerges as a solution to address educational disparities, particular
 | Sukma Adhi Wijaya | [LinkedIn](https://www.linkedin.com/in/sukma-adhi-wijaya-aa1659180/) | Hipster |
 | Muhammad Razin Syakib | [LinkedIn](https://www.linkedin.com/in/muhammad-razin-syakib/) | Hacker |
 
-## UI Application
+## UI Application (Figma)
 ![Register/Login](https://github.com/BantuCerdas/.github/assets/72656623/ada1b672-7638-4044-9a7e-b7b62a9e9617)
 ![Homepage](https://github.com/BantuCerdas/.github/assets/72656623/0d166fac-8df5-40e5-850c-a4b37a33c993)
 
