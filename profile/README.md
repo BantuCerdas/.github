@@ -20,10 +20,7 @@ BantuCerdas emerges as a solution to address educational disparities, particular
 
 
 ## API Documentations
-- [Auth-Service](https://documenter.getpostman.com/view/24273397/2s9YsNcpya)
-- [User-Service](https://documenter.getpostman.com/view/24273397/2s9YsNcq3v)
-- [Campaign-Service](https://documenter.getpostman.com/view/24273397/2s9YsNcpyb)
-- [Donation-Service](https://documenter.getpostman.com/view/24273397/2s9YsNcpyc)
+<a href="https://documenter.getpostman.com/view/24273397/2s9YsNeWJo"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /></a>
 
 ## Use Case Diagrams
 ### Use Case Register
