@@ -22,6 +22,11 @@ BantuCerdas emerges as a solution to address educational disparities, particular
 ## API Documentations
 <a href="https://documenter.getpostman.com/view/24273397/2s9YsNeWJo"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /></a>
 
+## Cloud Architecture
+### CI/CD Architecture with GitHub Actions and Google Cloud
+![CI/CD Architecture with GitHub Actions and Google Cloud](https://github.com/BantuCerdas/.github/assets/72656623/d5bf00df-2b64-48b8-a0d8-31e2a01696d0)
+
+
 ## Use Case Diagrams
 ### Use Case Register
 ![Use Case Register](https://github.com/BantuCerdas/.github/assets/72656623/594728db-7c3f-476f-b14e-5137865ad36f)
